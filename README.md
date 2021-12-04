@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=610094&height=200&section=header&text=Ma&animation=fadeIn&fontColor=ffff&fontSize=100&descSize=30)
 <div align=center>
   
-![ma-rista's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma-rista&show_icons=true&theme=yeblu)
+![ma-rista's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma-rista&show_icons=true&theme=yeblu)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-rista&layout=compact&theme=yeblu&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ## 🛠 What I Can Do! ⚙ 
