@@ -22,6 +22,8 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&height=200&color=150050&section=footer&descSize=30)
 
+[![commitcombo](http://commitcombo.com/theme?user=ma-rista&theme=Perfume&v=1)](https://github.com/devxb/CommitCombo)
+  
 <!--
 **ma-rista/ma-rista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
