@@ -19,10 +19,10 @@
 <br>
 <p align="center"> <br>
 <img src=https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fma-rista&count_bg=%234D4351&title_bg=%23620794&icon=apachecassandra.svg&icon_color=%23E7E7E7&title=&edge_flat=false)](https://hits.seeyoufarm.com/>
-
+[![commitcombo](http://commitcombo.com/theme?user=ma-rista&theme=Perfume&v=1)](https://github.com/devxb/CommitCombo)
 ![footer](https://capsule-render.vercel.app/api?type=slice&height=200&color=150050&section=footer&descSize=30)
 
-[![commitcombo](http://commitcombo.com/theme?user=ma-rista&theme=Perfume&v=1)](https://github.com/devxb/CommitCombo)
+
   
 <!--
 **ma-rista/ma-rista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
