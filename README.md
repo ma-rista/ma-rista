@@ -16,6 +16,8 @@
 ## 💻 What I Can Use! 🧰
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> &nbsp;  
+<br>  
+[![wakatime](https://wakatime.com/badge/user/4847ec97-4bbc-4846-83c6-c2733162602b.svg)](https://wakatime.com/@4847ec97-4bbc-4846-83c6-c2733162602b)
 </div>
 
 <!-- <p align="center">
@@ -27,6 +29,9 @@
 <p align="center"> <br>
 <img src=https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fma-rista&count_bg=%234D4351&title_bg=%23620794&icon=apachecassandra.svg&icon_color=%23E7E7E7&title=&edge_flat=false)](https://hits.seeyoufarm.com/>
 </p>
+
+
+
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&height=200&color=150050&section=footer&descSize=30)
 
